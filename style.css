@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+}
+
+#monkey-pic {
+	width: auto;
+	height: auto;
+	border: 3px solid blue;
+}
+
+.beard {
+	background: black;
+    width: 5px;
+    height: 5px;
+    position: absolute;
+    border-radius: 2px;
+    top: 80px;
+    left: 15px;
+         	}
